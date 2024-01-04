@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1675785420 source:c:\users\hugo\desktop\trabfinal - hugo e andressa\trabalho final aed 2- hugo e andressa\implemopesp.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<stdio.h>
+	"bibTAD-LA.h"
+	"bibOpEsp.h"
+
+1675720021 c:\users\hugo\desktop\trabfinal - hugo e andressa\trabalho final aed 2- hugo e andressa\bibtad-la.h
+	<iostream>
+
+1675720021 c:\users\hugo\desktop\trabfinal - hugo e andressa\trabalho final aed 2- hugo e andressa\bibopesp.h
+
+1675783403 source:c:\users\hugo\desktop\trabfinal - hugo e andressa\trabalho final aed 2- hugo e andressa\implemtad-la.cpp
+	<iostream>
+	"bibTAD-LA.h"
+
+1675782255 source:c:\users\hugo\desktop\trabfinal - hugo e andressa\trabalho final aed 2- hugo e andressa\main.cpp
+	<iostream>
+	<clocale>
+	<string>
+	<cstdlib>
+	<ctime>
+	"bibTAD-LA.h"
+	"bibOpEsp.h"
+
+1675785420 source:c:\users\hugo\desktop\ifmg\matérias\2º período\algoritmo e estrutura de dados ii\trabfinal - hugo e andressa\trabalho final aed 2- hugo e andressa\implemopesp.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<stdio.h>
+	"bibTAD-LA.h"
+	"bibOpEsp.h"
+
+1675720021 c:\users\hugo\desktop\ifmg\matérias\2º período\algoritmo e estrutura de dados ii\trabfinal - hugo e andressa\trabalho final aed 2- hugo e andressa\bibtad-la.h
+	<iostream>
+
+1675720021 c:\users\hugo\desktop\ifmg\matérias\2º período\algoritmo e estrutura de dados ii\trabfinal - hugo e andressa\trabalho final aed 2- hugo e andressa\bibopesp.h
+
+1675783403 source:c:\users\hugo\desktop\ifmg\matérias\2º período\algoritmo e estrutura de dados ii\trabfinal - hugo e andressa\trabalho final aed 2- hugo e andressa\implemtad-la.cpp
+	<iostream>
+	"bibTAD-LA.h"
+
+1687450692 source:c:\users\hugo\desktop\ifmg\matérias\2º período\algoritmo e estrutura de dados ii\trabfinal - hugo e andressa\trabalho final aed 2- hugo e andressa\main.cpp
+	<iostream>
+	<clocale>
+	<string>
+	<cstdlib>
+	<ctime>
+	"bibTAD-LA.h"
+	"bibOpEsp.h"
+
+1675785420 source:c:\users\hugo\github\trabalhos\algoritmos e estrutura de dados 2\trabalho final aed2 - andressa e hugo\implemopesp.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<stdio.h>
+	"bibTAD-LA.h"
+	"bibOpEsp.h"
+
+1675720021 c:\users\hugo\github\trabalhos\algoritmos e estrutura de dados 2\trabalho final aed2 - andressa e hugo\bibtad-la.h
+	<iostream>
+
+1675720021 c:\users\hugo\github\trabalhos\algoritmos e estrutura de dados 2\trabalho final aed2 - andressa e hugo\bibopesp.h
+
+1675783403 source:c:\users\hugo\github\trabalhos\algoritmos e estrutura de dados 2\trabalho final aed2 - andressa e hugo\implemtad-la.cpp
+	<iostream>
+	"bibTAD-LA.h"
+
+1687450692 source:c:\users\hugo\github\trabalhos\algoritmos e estrutura de dados 2\trabalho final aed2 - andressa e hugo\main.cpp
+	<iostream>
+	<clocale>
+	<string>
+	<cstdlib>
+	<ctime>
+	"bibTAD-LA.h"
+	"bibOpEsp.h"
+
