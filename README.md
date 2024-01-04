@@ -1,2 +1,3 @@
-# Controle-de-Estoque
-Este projeto foi apresentado como trabalho final na disciplina de Algoritmos e Estruturas de Dados 2. Feito em c++ com a IDE Code Blocks.
+# Trabalho Final - Algoritmos e Estrutura de Dados 2
+## Sistema de Controle de Estoque de um Supermercado
+Este projeto foi apresentado como trabalho final na disciplina de Algoritmos e Estruturas de Dados 2. Feito em c++ com a IDE Code Blocks, ele simula o sistema de controle de estoque de um supermercado. Nele os itens ssão divididos nas categorias de comida e limpeza, e suas informações são armazenadadas em uma árvore binária. Ao finalizar o sistema, é gerado um arquivo txt que guarda as informações de todos os itens e, ao inicia-lo novamente, essas informações poderão ser lidas e armazenadas em seguida na árvore binária.
